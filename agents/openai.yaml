@@ -1,0 +1,6 @@
+interface:
+  display_name: "文献目录与阅读卡"
+  short_description: "管理候选文献、PDF归档与独立精读卡，按研究判断和方法用途检索阅读成果"
+  default_prompt: "使用 $research-reading-library 整理我的文献目录与已下载PDF，按摘要归档、建立独立精读卡，并维护研究判断和方法用途索引。"
+policy:
+  allow_implicit_invocation: true
